@@ -1,0 +1,14 @@
+E:\ex_git\uaa13\exchien\exchien\bin\Debug\netcoreapp3.1\exchien.exe
+E:\ex_git\uaa13\exchien\exchien\bin\Debug\netcoreapp3.1\exchien.deps.json
+E:\ex_git\uaa13\exchien\exchien\bin\Debug\netcoreapp3.1\exchien.runtimeconfig.json
+E:\ex_git\uaa13\exchien\exchien\bin\Debug\netcoreapp3.1\exchien.runtimeconfig.dev.json
+E:\ex_git\uaa13\exchien\exchien\bin\Debug\netcoreapp3.1\exchien.dll
+E:\ex_git\uaa13\exchien\exchien\bin\Debug\netcoreapp3.1\exchien.pdb
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.csproj.AssemblyReference.cache
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.GeneratedMSBuildEditorConfig.editorconfig
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.AssemblyInfoInputs.cache
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.AssemblyInfo.cs
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.csproj.CoreCompileInputs.cache
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.dll
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.pdb
+E:\ex_git\uaa13\exchien\exchien\obj\Debug\netcoreapp3.1\exchien.genruntimeconfig.cache
