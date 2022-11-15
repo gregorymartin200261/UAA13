@@ -19,7 +19,28 @@ namespace exchien
                 uint ageChien = uint.Parse(Console.ReadLine());
 
                 mesChiens[i] = new Chien(nomChien, raceChien, ageChien);
+                Console.Clear();
+            }
+
+            for (int i = 0; i < 3; i++)
+            {
                 Console.WriteLine(mesChiens[i].AfficheCaracteristique());
+
+            }
+            Console.ReadLine();
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("L'age du chien n°" + i + "est de "+mesChiens[i].Age+" ans");
+                Console.WriteLine("Voulez vous modifier l'age du chien n°" + i + "?(oui/non)");
+                string ModifAge = Console.ReadLine();
+                if (ModifAge=="oui")
+                {
+                    Console.WriteLine("Entrez un age");
+                    uint NouvAge = uint.Parse(Console.ReadLine());
+                    mesChiens[i].Age = NouvAge;
+                    Console.WriteLine("L'age du chien n°" + i + "est de " + mesChiens[i].Age + " ans");
+                    Console.ReadLine();
+                }
             }
         }
     }
